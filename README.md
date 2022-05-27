@@ -1,2 +1,3 @@
-# Disease-Prediction-ML
-ML Model
+# Disease-Prediction-ML (Life Science Projects)
+Parkinsond Disease Prediction
+Diabetes Disease Prediction
